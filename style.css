@@ -4,3 +4,36 @@ padding: 10px;
 font-weight: bold;
 
 }
+.first-div{
+    background-color: green;
+    background-image: url("./img/pexels-mart-production-7089401.jpg");
+    background-size: cover;
+    padding: 300px;
+}
+.second-section{
+    display: flex;
+    gap:10px;
+    margin-left:150px;
+    margin-right: 20px;
+
+}
+.card{
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding:10px;
+    display:flex;
+    gap: 15px;
+}
+
+.card img{
+    width: 150px;
+    height:150px;
+    border-radius: 10px;
+}
+.btn{
+    padding: 10px;
+    background-color: green;
+    color: white;
+    border-radius: 4px;
+}
+    
