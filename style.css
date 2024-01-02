@@ -5,8 +5,11 @@ font-weight: bold;
 
 }
 .first-div{
-    background-color: green;
-    background-image: url("./img/pexels-mart-production-7089401.jpg");
+    background-color: rgba(0, 128, 87, 0.333) !important;
+}
+.first-div{
+   
+    background: url("./img/pexels-mart-production-7089401.jpg");
     background-size: cover;
     padding: 300px;
 }
@@ -36,4 +39,26 @@ font-weight: bold;
     color: white;
     border-radius: 4px;
 }
-    
+.parent-div{
+    display: flex;
+}
+.fourth-div{
+background-color: rgba(0, 128, 0, 0.422);
+padding: 250px;
+font-size: 20px;
+padding-left: 700px;
+
+}
+.tag{
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+
+.card-2{
+    text-align: center;
+    color: green;
+    font-weight: bolder;
+    font-size: 40px;
+    padding: 50px;
+}
